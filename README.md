@@ -100,7 +100,7 @@ I am a **Software Engineer** specializing in **Cloud Infrastructure**, **Full St
   <a href="https://linkedin.com/in/1402-yp">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yashp1402.github.io/portfolio">
+  <a href="https://yashp1402.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-6366F1?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
